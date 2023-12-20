@@ -32,7 +32,7 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](/gcd.png)
+![image](https://github.com/STANLEY-13/GCD-of-two-numbers/assets/148198816/48cd03f3-7b7c-4c1f-a29c-0fbdc3eedfba)
 
 
 ## Result:
